@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+53f0102a0f83498eb46eb813321cf3de /home/miguel/hrwros_ws/devel/.private/hrwros_week1_assignment/share/roseus/ros/hrwros_week1_assignment/manifest.l
+f396e7ca20dbdc7599c15a47c5ee214c CMakeFiles/clean_test_results
+e4c9f45455a3d48f673f718cfe82898e CMakeFiles/hrwros_week1_assignment_generate_messages_eus

@@ -1,0 +1,1 @@
+/home/miguel/hrwros_ws/devel/.private/hrwros_week1_assignment/share/roseus/ros/hrwros_week1_assignment/manifest.l

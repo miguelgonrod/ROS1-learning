@@ -1,0 +1,8 @@
+prefix=/home/miguel/hrwros_ws/devel/.private/cursoEDX
+
+Name: cursoEDX
+Description: Description of cursoEDX
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

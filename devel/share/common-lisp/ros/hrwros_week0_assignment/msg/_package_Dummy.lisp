@@ -1,0 +1,1 @@
+/home/miguel/hrwros_ws/devel/.private/hrwros_week0_assignment/share/common-lisp/ros/hrwros_week0_assignment/msg/_package_Dummy.lisp
