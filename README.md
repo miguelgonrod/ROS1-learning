@@ -20,6 +20,8 @@ To run my codes You will have to clone this repo
 $ sudo apt install ros-noetic-desktop-full
 $ git clone https://github.com/miguelgonrod/ROS1-learning
 $ cd ROS1-learning
+$ cp -r * ~/<your workspace>/src/
+$ cd ~/<your workspace>
 $ catkin build
 $ source devel/setup.bash
 $ rosrun [package] [node]
