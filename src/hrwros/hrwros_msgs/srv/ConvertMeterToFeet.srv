@@ -1,4 +1,0 @@
-float64 distance_meters     # Request message: Distance in (m) to be converted to feet
----
-float64 distance_feet       # Response message: distance in feet after conversion
-bool success                # response message: success or failure
