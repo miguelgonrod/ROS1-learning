@@ -1,8 +1,0 @@
-prefix=/home/miguel/hrwros_ws/install
-
-Name: hrwros_week0_assignment
-Description: Description of hrwros_week0_assignment
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 
