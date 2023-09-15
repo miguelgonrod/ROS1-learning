@@ -1,1 +1,0 @@
-/home/miguel/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/srv/_ConvertMeterToFeet.py

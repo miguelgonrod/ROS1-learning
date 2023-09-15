@@ -1,1 +1,0 @@
-/home/miguel/hrwros_ws/devel/.private/hrwros_week0_assignment/share/gennodejs/ros/hrwros_week0_assignment/msg/_index.js

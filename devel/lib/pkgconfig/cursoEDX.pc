@@ -1,1 +1,0 @@
-/home/miguel/hrwros_ws/devel/.private/cursoEDX/lib/pkgconfig/cursoEDX.pc
