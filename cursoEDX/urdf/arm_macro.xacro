@@ -1,0 +1,7 @@
+<xacro:macro name="arm" params="parent arm_name">
+    <link name="${arm_name}_link_1" />
+    <joint name="${arm_name}_joint_1" type="continuous">
+        <parent link="${parent}" />
+        <child link="${arm_name}_link_1" />
+    </joint>
+</xacro:macro>
